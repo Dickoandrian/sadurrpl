@@ -1,0 +1,11 @@
+nim : 1811500109
+nama : dicko andrian
+kelompok : TI6J
+
+hasil saya menyadur:
+1) mengingatkan kita cerdas berjiwa luhur
+2) penjelasan perkuliahan 
+3) tugas menyadur setiap pertemuan
+4) disuruh membuat kelompok yang beranggotakan 3 orang umtuk tugas UAS
+5) ada tutorial penyaduran melalui akun github
+6) pemberitahuan tentang sedikit mengenai KP
